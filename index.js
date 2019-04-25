@@ -4,3 +4,6 @@ var height = 74
 var message = ` is ${height} inches tall`
 
 module.exports = {name, height, message}
+
+console.log
+("Expected the height to be less than 40")
